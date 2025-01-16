@@ -14,6 +14,9 @@ This is a project that combines creativity and learning, developed with **HTML**
 
 This site was developed with a passion for games and technology, being one of the first steps on my journey into web development! 🖥️🔥
 
+### Website Layout
+<img src="https://i.ibb.co/1MfGzXt/Captura-de-tela-2025-01-16-145930.png" alt="Captura-de-tela-2025-01-16-145930" border="0">
+
 ### 🚀 Technologies Used
 
 - HTML
