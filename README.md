@@ -1,6 +1,23 @@
-# site-gta5.com
-**Tecnologias utilizadas**
-1. ![Logo do html5](https://github.com/filipeoliveira-03/sitedogta5/assets/158044004/45fcee15-361a-4ec8-8f04-b8cc15e20f85)
-2. ![Logo do css3](https://github.com/filipeoliveira-03/sitedogta5/assets/158044004/3578445f-09b0-441b-9240-95be62d3760b)
-3. ![Logo do javascript](https://github.com/filipeoliveira-03/sitedogta5/assets/158044004/e2c0e7fe-4736-49b8-bb6b-cf4229a6f9ac)
+# GTA V website 🚗💥
+
+### About the Website
+Welcome to my website dedicated to the incredible universe of GTA V! 🎮
+
+This is a project that combines creativity and learning, developed with **HTML**, **CSS** and **JS**. It's a simple yet stylish page designed to explore the fundamentals of web development while celebrating one of the most memorable games of all time! 🏙️✨
+
+💡 What you will find here:
+
+- Basic information about GTA V 🌍
+
+- A simple but functional design 🎨
+- My progress in learning how to create web pages 🚀
+
+This site was developed with a passion for games and technology, being one of the first steps on my journey into web development! 🖥️🔥
+
+### 🚀 Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
 
