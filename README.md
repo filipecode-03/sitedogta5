@@ -23,4 +23,6 @@ This site was developed with a passion for games and technology, being one of th
 - CSS
 - JavaScript
 
+<hr>
 
+<em>Desenvolvido por <a href="https://youtube.com/@devemdobro?si=5s6RePLNllT5ue4Z">devemdobro</a></em>
